@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.2.1", "1", "Exersice_1: Class and Object", "EARoot/EA2/EA1/EA162.htm", "4.png", "", "", "{54395056-2222-4019-AEB4-504EEDCFCB21}", "Package");
+tocTab[tocTab.length] = new Array("0.2.2", "1", "Exercise_2: Relations between Classes", "EARoot/EA2/EA2/EA168.htm", "4.png", "", "", "{A16DF139-1328-47cc-AE42-37A6FD2D640A}", "Package");
+tocTab[tocTab.length] = new Array("0.2.3", "1", "Exercise_3: Virtual Functions and Interface Class", "EARoot/EA2/EA3/EA177.htm", "4.png", "", "", "{0FEAE58E-3D3B-4c3d-BB6F-3FFCC3A768A1}", "Package");
+tocTab[tocTab.length] = new Array("0.2.4", "1", "Exercise_4: Object Oriented Callback Structure", "EARoot/EA2/EA4/EA188.htm", "4.png", "", "", "{FC6D20AC-AF26-4aaa-89F6-E626648F2375}", "Package");
+tocTab[tocTab.length] = new Array("0.2.5", "1", "Exercise_5: Hardware Driver and Interrupt", "EARoot/EA2/EA5/EA208.htm", "4.png", "", "", "{9727B377-CDE9-46d2-BAA1-331BF457A36E}", "Package");

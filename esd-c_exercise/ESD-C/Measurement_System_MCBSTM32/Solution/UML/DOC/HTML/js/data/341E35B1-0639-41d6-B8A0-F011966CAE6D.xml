@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.1:1", "", "Architecture_Overview", "EARoot/EA1/EA1.htm", "175.png", "8", "0", "", "Logical diagram0","{64CFC622-FAAB-4c69-9909-C1CCF8BAEFC8}");
+tocTab[tocTab.length] = new Array("0.1.1", "1", "«Software_Layer» Measurement_Application", "EARoot/EA1/EA1/EA15.htm", "4.png", "", "", "{11786718-2A15-4726-927E-1981A9A3F0A7}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2", "1", "«Software_Layer» System_Management", "EARoot/EA1/EA2/EA51.htm", "4.png", "", "", "{21234F51-BC5E-4aa7-B02E-C0B6B2A2F8A5}", "Package");
+tocTab[tocTab.length] = new Array("0.1.3", "1", "«Software_Layer» Hardware_Device_Abstraction", "EARoot/EA1/EA3/EA60.htm", "4.png", "", "", "{3861A5C8-E50F-48d7-8584-2111C8550490}", "Package");
+tocTab[tocTab.length] = new Array("0.1.4", "1", "«Software_Layer» Hardware_Device_Driver", "EARoot/EA1/EA4/EA114.htm", "4.png", "", "", "{3FE047A5-9CB0-430f-B67A-A830A34D90EF}", "Package");
+tocTab[tocTab.length] = new Array("0.1.5", "1", "«Software_Library» Library", "EARoot/EA1/EA5/EA208.htm", "4.png", "", "", "{A14736F6-A712-4f23-AFB8-CCD2C4483182}", "Package");

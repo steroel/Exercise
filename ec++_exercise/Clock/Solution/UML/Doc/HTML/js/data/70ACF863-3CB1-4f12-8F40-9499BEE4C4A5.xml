@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("0.1.1.1:1", "", "MCBSTM32_Clock_Application_Builder", "EARoot/EA1/EA1/EA1/EA18.htm", "175.png", "10", "0", "", "Logical diagram0","{C759DC6E-6C3D-4d0a-803D-452C4056A7B5}");
+tocTab[tocTab.length] = new Array("0.1.1.1:2", "", "cClockApplicationBuilder", "EARoot/EA1/EA1/EA1/EA21.htm", "5.png", "E8", "0", "", "Class0","{6131539B-A6B1-4c0c-A101-1FAFF9B51F39}");

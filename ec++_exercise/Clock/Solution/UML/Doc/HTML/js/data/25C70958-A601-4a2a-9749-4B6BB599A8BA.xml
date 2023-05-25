@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.1.5.2.1.1.2:1", "", "STM32F1xx_TIMER", "EARoot/EA1/EA5/EA2/EA1/EA1/EA2/EA92.htm", "175.png", "3", "0", "", "Logical diagram0","{A94A8F80-5975-4bc9-A5BE-FA57FC97C4EB}");
+tocTab[tocTab.length] = new Array("0.1.5.2.1.1.2:2", "", "cSTM32F1xxTIMER_Driver", "EARoot/EA1/EA5/EA2/EA1/EA1/EA2/EA95.htm", "5.png", "E44", "0", "", "Class0","{F1B877BA-3146-4167-8BE2-788C9E7BB2CC}");
+tocTab[tocTab.length] = new Array("0.1.5.2.1.1.2:3", "", "cSTM32F1xxTIMER_Register", "EARoot/EA1/EA5/EA2/EA1/EA1/EA2/EA96.htm", "5.png", "E45", "0", "", "Class0","{6B8F7B91-2718-48ea-894C-EFC8083850E3}");

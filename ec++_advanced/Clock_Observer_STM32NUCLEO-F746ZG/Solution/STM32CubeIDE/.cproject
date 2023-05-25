@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?fileVersion 4.0.0?><cproject storage_type_id="org.eclipse.cdt.core.XmlProjectDescriptionStorage">
+	<storageModule moduleId="org.eclipse.cdt.core.settings">
+		<cconfiguration id="com.st.stm32cube.ide.mcu.gnu.managedbuild.config.exe.debug.1942564350">
+			<storageModule buildSystemId="org.eclipse.cdt.managedbuilder.core.configurationDataProvider" id="com.st.stm32cube.ide.mcu.gnu.managedbuild.config.exe.debug.1942564350" moduleId="org.eclipse.cdt.core.settings" name="Debug">
+				<externalSettings/>
+				<extensions>
+					<extension id="org.eclipse.cdt.core.ELF" point="org.eclipse.cdt.core.BinaryParser"/>
+					<extension id="org.eclipse.cdt.core.GASErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GmakeErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GLDErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.CWDLocator" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GCCErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+				</extensions>
+			</storageModule>
+			<storageModule moduleId="cdtBuildSystem" version="4.0.0">
+				<configuration artifactExtension="elf" artifactName="${ProjName}" buildArtefactType="org.eclipse.cdt.build.core.buildArtefactType.exe" buildProperties="org.eclipse.cdt.build.core.buildArtefactType=org.eclipse.cdt.build.core.buildArtefactType.exe,org.eclipse.cdt.build.core.buildType=org.eclipse.cdt.build.core.buildType.debug" cleanCommand="rm -rf" description="" errorParsers="org.eclipse.cdt.core.GASErrorParser;org.eclipse.cdt.core.GmakeErrorParser;org.eclipse.cdt.core.GLDErrorParser;org.eclipse.cdt.core.CWDLocator;org.eclipse.cdt.core.GCCErrorParser" id="com.st.stm32cube.ide.mcu.gnu.managedbuild.config.exe.debug.1942564350" name="Debug" parent="com.st.stm32cube.ide.mcu.gnu.managedbuild.config.exe.debug">
+					<folderInfo id="com.st.stm32cube.ide.mcu.gnu.managedbuild.config.exe.debug.1942564350." name="/" resourcePath="">
+						<toolChain id="com.st.stm32cube.ide.mcu.gnu.managedbuild.toolchain.exe.debug.1294352566" name="MCU ARM GCC" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.toolchain.exe.debug">
+							<option id="com.st.stm32cube.ide.mcu.gnu.managedbuild.option.target_mcu.517422778" name="MCU" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.option.target_mcu" useByScannerDiscovery="true" value="STM32F746ZGTx" valueType="string"/>
+							<option id="com.st.stm32cube.ide.mcu.gnu.managedbuild.option.target_cpuid.2142183277" name="CPU" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.option.target_cpuid" useByScannerDiscovery="false" value="0" valueType="string"/>
+							<option id="com.st.stm32cube.ide.mcu.gnu.managedbuild.option.target_coreid.916240642" name="Core" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.option.target_coreid" useByScannerDiscovery="false" value="0" valueType="string"/>
+							<option id="com.st.stm32cube.ide.mcu.gnu.managedbuild.option.fpu.290002912" name="Floating-point unit" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.option.fpu" useByScannerDiscovery="true" value="com.st.stm32cube.ide.mcu.gnu.managedbuild.option.fpu.value.fpv5-sp-d16" valueType="enumerated"/>
+							<option id="com.st.stm32cube.ide.mcu.gnu.managedbuild.option.floatabi.906101743" name="Floating-point ABI" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.option.floatabi" useByScannerDiscovery="true" value="com.st.stm32cube.ide.mcu.gnu.managedbuild.option.floatabi.value.hard" valueType="enumerated"/>
+							<option id="com.st.stm32cube.ide.mcu.gnu.managedbuild.option.target_board.248917137" name="Board" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.option.target_board" useByScannerDiscovery="false" value="NUCLEO-F746ZG" valueType="string"/>
+							<option id="com.st.stm32cube.ide.mcu.gnu.managedbuild.option.defaults.365917560" name="Defaults" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.option.defaults" useByScannerDiscovery="false" value="com.st.stm32cube.ide.common.services.build.inputs.revA.1.0.5 || Debug || true || Executable || com.st.stm32cube.ide.mcu.gnu.managedbuild.option.toolchain.value.workspace || NUCLEO-F746ZG || 0 || 0 || arm-none-eabi- || ${gnu_tools_for_stm32_compiler_path} || ../Core/Inc | ../Drivers/STM32F7xx_HAL_Driver/Inc | ../Drivers/STM32F7xx_HAL_Driver/Inc/Legacy | ../Drivers/CMSIS/Device/ST/STM32F7xx/Include | ../Drivers/CMSIS/Include ||  ||  || USE_HAL_DRIVER | STM32F746xx ||  || Drivers | Core/Startup | Core ||  ||  || ${workspace_loc:/${ProjName}/STM32F746ZGTX_FLASH.ld} || true || NonSecure ||  || secure_nsclib.o ||  || None || " valueType="string"/>
+							<option id="com.st.stm32cube.ide.mcu.gnu.managedbuild.option.runtimelibrary_cpp.625159350" name="Runtime library" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.option.runtimelibrary_cpp" useByScannerDiscovery="true" value="com.st.stm32cube.ide.mcu.gnu.managedbuild.option.runtimelibrary_cpp.value.standard_c_standard_cpp" valueType="enumerated"/>
+							<targetPlatform archList="all" binaryParser="org.eclipse.cdt.core.ELF" id="com.st.stm32cube.ide.mcu.gnu.managedbuild.targetplatform.24319877" isAbstract="false" osList="all" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.targetplatform"/>
+							<builder buildPath="${workspace_loc:/Clock_Observer}/Debug" id="com.st.stm32cube.ide.mcu.gnu.managedbuild.builder.1524159781" keepEnvironmentInBuildfile="false" managedBuildOn="true" name="Gnu Make Builder" parallelBuildOn="true" parallelizationNumber="optimal" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.builder"/>
+							<tool id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.assembler.780822650" name="MCU GCC Assembler" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.assembler">
+								<option id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.assembler.option.debuglevel.881097965" name="Debug level" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.assembler.option.debuglevel" useByScannerDiscovery="false" value="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.assembler.option.debuglevel.value.g3" valueType="enumerated"/>
+								<option IS_BUILTIN_EMPTY="false" IS_VALUE_EMPTY="false" id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.assembler.option.definedsymbols.1444103793" name="Define symbols (-D)" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.assembler.option.definedsymbols" useByScannerDiscovery="false" valueType="definedSymbols">
+									<listOptionValue builtIn="false" value="DEBUG"/>
+								</option>
+								<inputType id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.assembler.input.2120486028" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.assembler.input"/>
+							</tool>
+							<tool id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.compiler.1481838006" name="MCU GCC Compiler" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.compiler">
+								<option id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.compiler.option.debuglevel.1135110576" name="Debug level" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.compiler.option.debuglevel" useByScannerDiscovery="false" value="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.compiler.option.debuglevel.value.g3" valueType="enumerated"/>
+								<option id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.compiler.option.optimization.level.1583099959" name="Optimization level" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.compiler.option.optimization.level" useByScannerDiscovery="false"/>
+								<option IS_BUILTIN_EMPTY="false" IS_VALUE_EMPTY="false" id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.compiler.option.definedsymbols.1878741782" name="Define symbols (-D)" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.compiler.option.definedsymbols" useByScannerDiscovery="false" valueType="definedSymbols">
+									<listOptionValue builtIn="false" value="DEBUG"/>
+									<listOptionValue builtIn="false" value="USE_HAL_DRIVER"/>
+									<listOptionValue builtIn="false" value="STM32F746xx"/>
+								</option>
+								<option IS_BUILTIN_EMPTY="false" IS_VALUE_EMPTY="false" id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.compiler.option.includepaths.171803307" name="Include paths (-I)" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.compiler.option.includepaths" useByScannerDiscovery="false" valueType="includePath">
+									<listOptionValue builtIn="false" value="../HardwareConfiguration/STM32F7xx/Inc"/>
+									<listOptionValue builtIn="false" value="../../Source/Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/STM32F7xx_HAL_Driver/Inc"/>
+									<listOptionValue builtIn="false" value="../../Source/Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/STM32F7xx_HAL_Driver/Inc/Legacy"/>
+									<listOptionValue builtIn="false" value="../../Source/Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/CMSIS/Device/ST/STM32F7xx/Include"/>
+									<listOptionValue builtIn="false" value="../../Source/Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/CMSIS/Include"/>
+									<listOptionValue builtIn="false" value="../../Source/Platform/Hardware_Abstraction/Board_Driver_Abstraction/BSP_STM32F7xx_Nucleo_144"/>
+									<listOptionValue builtIn="false" value="../../Source/Platform/Build_Environment/STM32CubeIDE_STM32F7xx"/>
+								</option>
+								<inputType id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.compiler.input.c.2118696464" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.compiler.input.c"/>
+							</tool>
+							<tool id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.compiler.1911311202" name="MCU G++ Compiler" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.compiler">
+								<option id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.compiler.option.debuglevel.953085545" name="Debug level" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.compiler.option.debuglevel" useByScannerDiscovery="false" value="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.compiler.option.debuglevel.value.g3" valueType="enumerated"/>
+								<option id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.compiler.option.optimization.level.63975415" name="Optimization level" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.compiler.option.optimization.level" useByScannerDiscovery="false"/>
+								<option IS_BUILTIN_EMPTY="false" IS_VALUE_EMPTY="false" id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.compiler.option.definedsymbols.1749883145" name="Define symbols (-D)" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.compiler.option.definedsymbols" useByScannerDiscovery="false" valueType="definedSymbols">
+									<listOptionValue builtIn="false" value="DEBUG"/>
+									<listOptionValue builtIn="false" value="USE_HAL_DRIVER"/>
+									<listOptionValue builtIn="false" value="STM32F746xx"/>
+								</option>
+								<option IS_BUILTIN_EMPTY="false" IS_VALUE_EMPTY="false" id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.compiler.option.includepaths.26078081" name="Include paths (-I)" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.compiler.option.includepaths" useByScannerDiscovery="false" valueType="includePath">
+									<listOptionValue builtIn="false" value="../HardwareConfiguration/STM32F7xx/Inc"/>
+									<listOptionValue builtIn="false" value="../../Source/Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/STM32F7xx_HAL_Driver/Inc"/>
+									<listOptionValue builtIn="false" value="../../Source/Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/STM32F7xx_HAL_Driver/Inc/Legacy"/>
+									<listOptionValue builtIn="false" value="../../Source/Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/CMSIS/Device/ST/STM32F7xx/Include"/>
+									<listOptionValue builtIn="false" value="../../Source/Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/CMSIS/Include"/>
+									<listOptionValue builtIn="false" value="../../Source/Platform/Hardware_Abstraction/Board_Driver_Abstraction/BSP_STM32F7xx_Nucleo_144"/>
+									<listOptionValue builtIn="false" value="../../Source/Platform/Build_Environment/STM32CubeIDE_STM32F7xx"/>
+								</option>
+								<option id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.compiler.option.languagestandard.604606485" name="Language standard" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.compiler.option.languagestandard" useByScannerDiscovery="true" value="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.compiler.option.languagestandard.value.gnupp17" valueType="enumerated"/>
+								<option id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.compiler.option.noexceptions.867644449" name="Disable handling exceptions (-fno-exceptions)" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.compiler.option.noexceptions" useByScannerDiscovery="false" value="false" valueType="boolean"/>
+								<option id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.compiler.option.nortti.1330845336" name="Disable generation of information about every class with virtual functions (-fno-rtti)" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.compiler.option.nortti" useByScannerDiscovery="false" value="false" valueType="boolean"/>
+								<inputType id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.compiler.input.cpp.300729860" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.compiler.input.cpp"/>
+							</tool>
+							<tool id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.linker.1300629350" name="MCU GCC Linker" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.linker"/>
+							<tool id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.linker.2129639047" name="MCU G++ Linker" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.linker">
+								<option id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.linker.option.script.1043162040" name="Linker Script (-T)" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.linker.option.script" useByScannerDiscovery="false" value="${workspace_loc:/${ProjName}/STM32F746ZGTX_FLASH.ld}" valueType="string"/>
+								<option IS_BUILTIN_EMPTY="false" IS_VALUE_EMPTY="false" id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.linker.option.otherflags.2015496509" name="Other flags" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.linker.option.otherflags" useByScannerDiscovery="false" valueType="stringList">
+									<listOptionValue builtIn="false" value="-u _printf_float"/>
+								</option>
+								<option id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.linker.option.cref.1219556334" name="Add symbol cross reference table to map file (-Wl,--cref)" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.linker.option.cref" useByScannerDiscovery="false" value="true" valueType="boolean"/>
+								<inputType id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.linker.input.1777157496" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.linker.input">
+									<additionalInput kind="additionalinputdependency" paths="$(USER_OBJS)"/>
+									<additionalInput kind="additionalinput" paths="$(LIBS)"/>
+								</inputType>
+							</tool>
+							<tool id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.archiver.1905347871" name="MCU GCC Archiver" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.archiver"/>
+							<tool id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.size.1858956380" name="MCU Size" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.size"/>
+							<tool id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objdump.listfile.235954603" name="MCU Output Converter list file" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objdump.listfile"/>
+							<tool id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objcopy.hex.1470955558" name="MCU Output Converter Hex" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objcopy.hex"/>
+							<tool id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objcopy.binary.1743434215" name="MCU Output Converter Binary" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objcopy.binary"/>
+							<tool id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objcopy.verilog.1845181377" name="MCU Output Converter Verilog" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objcopy.verilog"/>
+							<tool id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objcopy.srec.206696397" name="MCU Output Converter Motorola S-rec" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objcopy.srec"/>
+							<tool id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objcopy.symbolsrec.1313599031" name="MCU Output Converter Motorola S-rec with symbols" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objcopy.symbolsrec"/>
+						</toolChain>
+					</folderInfo>
+					<fileInfo id="com.st.stm32cube.ide.mcu.gnu.managedbuild.config.exe.debug.1942564350.1752013522" name="TypeDefinitions.hpp" rcbsApplicability="disable" resourcePath="Platform/Build_Environment/MSVS_x86/TypeDefinitions.hpp" toolsToInvoke=""/>
+					<fileInfo id="com.st.stm32cube.ide.mcu.gnu.managedbuild.config.exe.debug.1942564350.1150254965" name="TypeDefinitions.hpp" rcbsApplicability="disable" resourcePath="Platform/Build_Environment/MDK-ARM_STM32F7xx/TypeDefinitions.hpp" toolsToInvoke=""/>
+					<sourceEntries>
+						<entry excluding="Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_wwdg.c|Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_uart_ex.c|Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_timebase_tim_template.c|Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_sram.c|Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_spi.c|Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_spi_ex.c|Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_spdifrx.c|Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_smbus.c|Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_smartcard.c|Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_smartcard_ex.c|Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_sdram.c|Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_sd.c|Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_sai.c|Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_sai_ex.c|Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_rtc.c|Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_rtc_ex.c|Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_rng.c|Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_qspi.c|Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_pcd.c|Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_pcd_ex.c|Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_nor.c|Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_nand.c|Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_msp_template.c|Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_mmc.c|Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_mdios.c|Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_ltdc.c|Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_ltdc_ex.c|Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_lptim.c|Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_jpeg.c|Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_iwdg.c|Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_irda.c|Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_i2s.c|Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_i2c.c|Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_i2c_ex.c|Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_hcd.c|Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_hash.c|Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_hash_ex.c|Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_flash.c|Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_flash_ex.c|Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_exti.c|Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_eth.c|Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_dsi.c|Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_dma2d.c|Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_dma.c|Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_dfsdm.c|Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_dcmi.c|Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_dcmi_ex.c|Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_dac.c|Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_dac_ex.c|Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_cryp.c|Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_cryp_ex.c|Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_crc.c|Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/STM32F7xx_HAL_Driver/Src/stm32f7xx_ll_utils.c|Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/STM32F7xx_HAL_Driver/Src/stm32f7xx_ll_usb.c|Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/STM32F7xx_HAL_Driver/Src/stm32f7xx_ll_usart.c|Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/STM32F7xx_HAL_Driver/Src/stm32f7xx_ll_tim.c|Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/STM32F7xx_HAL_Driver/Src/stm32f7xx_ll_spi.c|Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/STM32F7xx_HAL_Driver/Src/stm32f7xx_ll_sdmmc.c|Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/STM32F7xx_HAL_Driver/Src/stm32f7xx_ll_rtc.c|Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/STM32F7xx_HAL_Driver/Src/stm32f7xx_ll_rng.c|Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/STM32F7xx_HAL_Driver/Src/stm32f7xx_ll_rcc.c|Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/STM32F7xx_HAL_Driver/Src/stm32f7xx_ll_pwr.c|Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/STM32F7xx_HAL_Driver/Src/stm32f7xx_ll_lptim.c|Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/STM32F7xx_HAL_Driver/Src/stm32f7xx_ll_i2c.c|Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/STM32F7xx_HAL_Driver/Src/stm32f7xx_ll_gpio.c|Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/STM32F7xx_HAL_Driver/Src/stm32f7xx_ll_fmc.c|Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/STM32F7xx_HAL_Driver/Src/stm32f7xx_ll_exti.c|Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/STM32F7xx_HAL_Driver/Src/stm32f7xx_ll_dma2d.c|Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/STM32F7xx_HAL_Driver/Src/stm32f7xx_ll_dma.c|Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/STM32F7xx_HAL_Driver/Src/stm32f7xx_ll_dac.c|Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/STM32F7xx_HAL_Driver/Src/stm32f7xx_ll_crc.c|Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/STM32F7xx_HAL_Driver/Src/stm32f7xx_ll_adc.c|Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_crc_ex.c|Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_cec.c|Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_can.c|Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_adc.c|Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_adc_ex.c|Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_timebase_rtc_wakeup_template.c|Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_timebase_rtc_alarm_template.c|Platform/Hardware_Abstraction/Device_Driver_Abstraction/x86/BasicIO/BasicIO.cpp|Platform/Build_Environment/MSVS_x86/TypeDefinitions.hpp|Platform/Build_Environment/MDK-ARM_STM32F7xx/TypeDefinitions.hpp|Platform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/BasicIO/BasicIO_stdio.cpp|Plattform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/BasicIO/BasicIO_stdio.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+					</sourceEntries>
+				</configuration>
+			</storageModule>
+			<storageModule moduleId="org.eclipse.cdt.core.externalSettings"/>
+		</cconfiguration>
+		<cconfiguration id="com.st.stm32cube.ide.mcu.gnu.managedbuild.config.exe.release.1567455368">
+			<storageModule buildSystemId="org.eclipse.cdt.managedbuilder.core.configurationDataProvider" id="com.st.stm32cube.ide.mcu.gnu.managedbuild.config.exe.release.1567455368" moduleId="org.eclipse.cdt.core.settings" name="Release">
+				<externalSettings/>
+				<extensions>
+					<extension id="org.eclipse.cdt.core.ELF" point="org.eclipse.cdt.core.BinaryParser"/>
+					<extension id="org.eclipse.cdt.core.GASErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GmakeErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GLDErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.CWDLocator" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GCCErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+				</extensions>
+			</storageModule>
+			<storageModule moduleId="cdtBuildSystem" version="4.0.0">
+				<configuration artifactExtension="elf" artifactName="${ProjName}" buildArtefactType="org.eclipse.cdt.build.core.buildArtefactType.exe" buildProperties="org.eclipse.cdt.build.core.buildArtefactType=org.eclipse.cdt.build.core.buildArtefactType.exe,org.eclipse.cdt.build.core.buildType=org.eclipse.cdt.build.core.buildType.release" cleanCommand="rm -rf" description="" id="com.st.stm32cube.ide.mcu.gnu.managedbuild.config.exe.release.1567455368" name="Release" parent="com.st.stm32cube.ide.mcu.gnu.managedbuild.config.exe.release">
+					<folderInfo id="com.st.stm32cube.ide.mcu.gnu.managedbuild.config.exe.release.1567455368." name="/" resourcePath="">
+						<toolChain id="com.st.stm32cube.ide.mcu.gnu.managedbuild.toolchain.exe.release.2095986325" name="MCU ARM GCC" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.toolchain.exe.release">
+							<option id="com.st.stm32cube.ide.mcu.gnu.managedbuild.option.target_mcu.843631010" name="MCU" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.option.target_mcu" useByScannerDiscovery="true" value="STM32F746ZGTx" valueType="string"/>
+							<option id="com.st.stm32cube.ide.mcu.gnu.managedbuild.option.target_cpuid.1099058635" name="CPU" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.option.target_cpuid" useByScannerDiscovery="false" value="0" valueType="string"/>
+							<option id="com.st.stm32cube.ide.mcu.gnu.managedbuild.option.target_coreid.1971749932" name="Core" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.option.target_coreid" useByScannerDiscovery="false" value="0" valueType="string"/>
+							<option id="com.st.stm32cube.ide.mcu.gnu.managedbuild.option.fpu.1896839923" name="Floating-point unit" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.option.fpu" useByScannerDiscovery="true" value="com.st.stm32cube.ide.mcu.gnu.managedbuild.option.fpu.value.fpv5-sp-d16" valueType="enumerated"/>
+							<option id="com.st.stm32cube.ide.mcu.gnu.managedbuild.option.floatabi.992290680" name="Floating-point ABI" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.option.floatabi" useByScannerDiscovery="true" value="com.st.stm32cube.ide.mcu.gnu.managedbuild.option.floatabi.value.hard" valueType="enumerated"/>
+							<option id="com.st.stm32cube.ide.mcu.gnu.managedbuild.option.target_board.1026208734" name="Board" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.option.target_board" useByScannerDiscovery="false" value="NUCLEO-F746ZG" valueType="string"/>
+							<option id="com.st.stm32cube.ide.mcu.gnu.managedbuild.option.defaults.2011746893" name="Defaults" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.option.defaults" useByScannerDiscovery="false" value="com.st.stm32cube.ide.common.services.build.inputs.revA.1.0.5 || Release || false || Executable || com.st.stm32cube.ide.mcu.gnu.managedbuild.option.toolchain.value.workspace || NUCLEO-F746ZG || 0 || 0 || arm-none-eabi- || ${gnu_tools_for_stm32_compiler_path} || ../Core/Inc | ../Drivers/STM32F7xx_HAL_Driver/Inc | ../Drivers/STM32F7xx_HAL_Driver/Inc/Legacy | ../Drivers/CMSIS/Device/ST/STM32F7xx/Include | ../Drivers/CMSIS/Include ||  ||  || USE_HAL_DRIVER | STM32F746xx ||  || Drivers | Core/Startup | Core ||  ||  || ${workspace_loc:/${ProjName}/STM32F746ZGTX_FLASH.ld} || true || NonSecure ||  || secure_nsclib.o ||  || None || " valueType="string"/>
+							<targetPlatform archList="all" binaryParser="org.eclipse.cdt.core.ELF" id="com.st.stm32cube.ide.mcu.gnu.managedbuild.targetplatform.1339050781" isAbstract="false" osList="all" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.targetplatform"/>
+							<builder buildPath="${workspace_loc:/Clock_Observer}/Release" id="com.st.stm32cube.ide.mcu.gnu.managedbuild.builder.776643623" keepEnvironmentInBuildfile="false" managedBuildOn="true" name="Gnu Make Builder" parallelBuildOn="true" parallelizationNumber="optimal" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.builder"/>
+							<tool id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.assembler.2106707353" name="MCU GCC Assembler" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.assembler">
+								<option id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.assembler.option.debuglevel.1523952086" name="Debug level" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.assembler.option.debuglevel" value="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.assembler.option.debuglevel.value.g0" valueType="enumerated"/>
+								<inputType id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.assembler.input.2031491305" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.assembler.input"/>
+							</tool>
+							<tool id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.compiler.60682886" name="MCU GCC Compiler" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.compiler">
+								<option id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.compiler.option.debuglevel.87614384" name="Debug level" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.compiler.option.debuglevel" useByScannerDiscovery="false" value="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.compiler.option.debuglevel.value.g0" valueType="enumerated"/>
+								<option id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.compiler.option.optimization.level.73464577" name="Optimization level" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.compiler.option.optimization.level" useByScannerDiscovery="false" value="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.compiler.option.optimization.level.value.os" valueType="enumerated"/>
+								<option IS_BUILTIN_EMPTY="false" IS_VALUE_EMPTY="false" id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.compiler.option.definedsymbols.271356331" name="Define symbols (-D)" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.compiler.option.definedsymbols" useByScannerDiscovery="false" valueType="definedSymbols">
+									<listOptionValue builtIn="false" value="USE_HAL_DRIVER"/>
+									<listOptionValue builtIn="false" value="STM32F746xx"/>
+								</option>
+								<option IS_BUILTIN_EMPTY="false" IS_VALUE_EMPTY="false" id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.compiler.option.includepaths.902265755" name="Include paths (-I)" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.compiler.option.includepaths" useByScannerDiscovery="false" valueType="includePath">
+									<listOptionValue builtIn="false" value="../Core/Inc"/>
+									<listOptionValue builtIn="false" value="../Drivers/STM32F7xx_HAL_Driver/Inc"/>
+									<listOptionValue builtIn="false" value="../Drivers/STM32F7xx_HAL_Driver/Inc/Legacy"/>
+									<listOptionValue builtIn="false" value="../Drivers/CMSIS/Device/ST/STM32F7xx/Include"/>
+									<listOptionValue builtIn="false" value="../Drivers/CMSIS/Include"/>
+								</option>
+								<inputType id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.compiler.input.c.2087921741" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.compiler.input.c"/>
+							</tool>
+							<tool id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.compiler.748763898" name="MCU G++ Compiler" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.compiler">
+								<option id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.compiler.option.debuglevel.1295144812" name="Debug level" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.compiler.option.debuglevel" useByScannerDiscovery="false" value="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.compiler.option.debuglevel.value.g0" valueType="enumerated"/>
+								<option id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.compiler.option.optimization.level.300548782" name="Optimization level" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.compiler.option.optimization.level" useByScannerDiscovery="false" value="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.compiler.option.optimization.level.value.os" valueType="enumerated"/>
+								<option IS_BUILTIN_EMPTY="false" IS_VALUE_EMPTY="false" id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.compiler.option.definedsymbols.937506158" name="Define symbols (-D)" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.compiler.option.definedsymbols" useByScannerDiscovery="false" valueType="definedSymbols">
+									<listOptionValue builtIn="false" value="USE_HAL_DRIVER"/>
+									<listOptionValue builtIn="false" value="STM32F746xx"/>
+								</option>
+								<option IS_BUILTIN_EMPTY="false" IS_VALUE_EMPTY="false" id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.compiler.option.includepaths.672155135" name="Include paths (-I)" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.compiler.option.includepaths" useByScannerDiscovery="false" valueType="includePath">
+									<listOptionValue builtIn="false" value="../Core/Inc"/>
+									<listOptionValue builtIn="false" value="../Drivers/STM32F7xx_HAL_Driver/Inc"/>
+									<listOptionValue builtIn="false" value="../Drivers/STM32F7xx_HAL_Driver/Inc/Legacy"/>
+									<listOptionValue builtIn="false" value="../Drivers/CMSIS/Device/ST/STM32F7xx/Include"/>
+									<listOptionValue builtIn="false" value="../Drivers/CMSIS/Include"/>
+								</option>
+								<inputType id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.compiler.input.cpp.814477542" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.compiler.input.cpp"/>
+							</tool>
+							<tool id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.linker.1007389836" name="MCU GCC Linker" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.linker"/>
+							<tool id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.linker.1528531722" name="MCU G++ Linker" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.linker">
+								<option id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.linker.option.script.1935284576" name="Linker Script (-T)" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.linker.option.script" value="${workspace_loc:/${ProjName}/STM32F746ZGTX_FLASH.ld}" valueType="string"/>
+								<inputType id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.linker.input.483728755" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.linker.input">
+									<additionalInput kind="additionalinputdependency" paths="$(USER_OBJS)"/>
+									<additionalInput kind="additionalinput" paths="$(LIBS)"/>
+								</inputType>
+							</tool>
+							<tool id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.archiver.287781963" name="MCU GCC Archiver" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.archiver"/>
+							<tool id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.size.1511173889" name="MCU Size" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.size"/>
+							<tool id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objdump.listfile.4773367" name="MCU Output Converter list file" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objdump.listfile"/>
+							<tool id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objcopy.hex.1622699019" name="MCU Output Converter Hex" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objcopy.hex"/>
+							<tool id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objcopy.binary.934531892" name="MCU Output Converter Binary" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objcopy.binary"/>
+							<tool id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objcopy.verilog.502054080" name="MCU Output Converter Verilog" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objcopy.verilog"/>
+							<tool id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objcopy.srec.1859518692" name="MCU Output Converter Motorola S-rec" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objcopy.srec"/>
+							<tool id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objcopy.symbolsrec.243345096" name="MCU Output Converter Motorola S-rec with symbols" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objcopy.symbolsrec"/>
+						</toolChain>
+					</folderInfo>
+					<sourceEntries>
+						<entry excluding="Plattform/Hardware_Abstraction/Device_Driver_Abstraction/STM32F7xx/BasicIO/BasicIO_stdio.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+					</sourceEntries>
+				</configuration>
+			</storageModule>
+			<storageModule moduleId="org.eclipse.cdt.core.externalSettings"/>
+		</cconfiguration>
+	</storageModule>
+	<storageModule moduleId="org.eclipse.cdt.core.pathentry"/>
+	<storageModule moduleId="cdtBuildSystem" version="4.0.0">
+		<project id="Clock_Observer.null.1970667791" name="Clock_Observer"/>
+	</storageModule>
+	<storageModule moduleId="org.eclipse.cdt.core.LanguageSettingsProviders"/>
+	<storageModule moduleId="org.eclipse.cdt.make.core.buildtargets"/>
+	<storageModule moduleId="scannerConfiguration">
+		<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId=""/>
+		<scannerConfigBuildInfo instanceId="com.st.stm32cube.ide.mcu.gnu.managedbuild.config.exe.debug.1942564350;com.st.stm32cube.ide.mcu.gnu.managedbuild.config.exe.debug.1942564350.;com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.compiler.1911311202;com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.compiler.input.cpp.300729860">
+			<autodiscovery enabled="false" problemReportingEnabled="true" selectedProfileId=""/>
+		</scannerConfigBuildInfo>
+		<scannerConfigBuildInfo instanceId="com.st.stm32cube.ide.mcu.gnu.managedbuild.config.exe.release.1567455368;com.st.stm32cube.ide.mcu.gnu.managedbuild.config.exe.release.1567455368.;com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.compiler.60682886;com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.compiler.input.c.2087921741">
+			<autodiscovery enabled="false" problemReportingEnabled="true" selectedProfileId=""/>
+		</scannerConfigBuildInfo>
+		<scannerConfigBuildInfo instanceId="com.st.stm32cube.ide.mcu.gnu.managedbuild.config.exe.debug.1942564350;com.st.stm32cube.ide.mcu.gnu.managedbuild.config.exe.debug.1942564350.;com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.compiler.1481838006;com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.compiler.input.c.2118696464">
+			<autodiscovery enabled="false" problemReportingEnabled="true" selectedProfileId=""/>
+		</scannerConfigBuildInfo>
+		<scannerConfigBuildInfo instanceId="com.st.stm32cube.ide.mcu.gnu.managedbuild.config.exe.release.1567455368;com.st.stm32cube.ide.mcu.gnu.managedbuild.config.exe.release.1567455368.;com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.compiler.748763898;com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.compiler.input.cpp.814477542">
+			<autodiscovery enabled="false" problemReportingEnabled="true" selectedProfileId=""/>
+		</scannerConfigBuildInfo>
+	</storageModule>
+	<storageModule moduleId="refreshScope" versionNumber="2">
+		<configuration configurationName="Debug">
+			<resource resourceType="PROJECT" workspacePath="/Clock_Observer"/>
+		</configuration>
+		<configuration configurationName="Release">
+			<resource resourceType="PROJECT" workspacePath="/Clock_Observer"/>
+		</configuration>
+	</storageModule>
+</cproject>

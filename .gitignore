@@ -1,0 +1,4 @@
+*.o
+my_cube/nucleo-F746ZG/naked_rtos/Debug
+my_cube/ws_cube_id/.metadata
+.zgit

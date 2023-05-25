@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.1.1.2:1", "", "Measurement", "EARoot/EA1/EA1/EA2/EA38.htm", "175.png", "38", "0", "", "Logical diagram0","{A312BA83-3735-47e7-92E5-F926B84523FD}");
+tocTab[tocTab.length] = new Array("0.1.1.2:2", "", "Measurement_extended", "EARoot/EA1/EA1/EA2/EA40.htm", "175.png", "49", "0", "", "Logical diagram0","{0591C0CE-F5B8-4ded-8E2A-90B2AE2112A6}");
+tocTab[tocTab.length] = new Array("0.1.1.2:3", "", "Measurement", "EARoot/EA1/EA1/EA2/EA43.htm", "5.png", "E92", "0", "", "Class0","{89DCE4C1-2FC6-4d6b-B849-BD7E8FCD8B5D}");
+tocTab[tocTab.length] = new Array("0.1.1.2:4", "", "VoltageMeasurement", "EARoot/EA1/EA1/EA2/EA44.htm", "5.png", "E93", "0", "", "Class0","{E5FC5338-E8C6-429b-B46C-EB6A3488661F}");
+tocTab[tocTab.length] = new Array("0.1.1.2:5", "", "CurrentMeasurement", "EARoot/EA1/EA1/EA2/EA45.htm", "5.png", "E94", "0", "", "Class0","{558B0817-F115-45cd-A87A-0724A8655385}");
+tocTab[tocTab.length] = new Array("0.1.1.2:6", "", "ResistanceMeasurement", "EARoot/EA1/EA1/EA2/EA46.htm", "5.png", "E95", "0", "", "Class0","{3DF1FE35-1FDB-4a9b-B846-4B74048ECBE3}");

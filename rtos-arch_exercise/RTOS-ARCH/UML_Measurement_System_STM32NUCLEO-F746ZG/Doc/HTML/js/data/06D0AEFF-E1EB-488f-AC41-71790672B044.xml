@@ -1,0 +1,10 @@
+tocTab[tocTab.length] = new Array("0.1.2:1", "", "Measue and display in different modes: Voltage, current and resistance", "EARoot/EA1/EA2/EA20.htm", "7.png", "E59", "0", "", "UseCase0","{F97CFACB-AB39-4493-82BC-4F7B48F7D8A3}");
+tocTab[tocTab.length] = new Array("0.1.2:2", "", "Capture time triggered ADC value continuously", "EARoot/EA1/EA2/EA21.htm", "7.png", "E70", "E59", "", "UseCase0","{15B9F687-62B7-4d05-9C62-B7C4234807CD}");
+tocTab[tocTab.length] = new Array("0.1.2:3", "", "Detect and indicate run-time error", "EARoot/EA1/EA2/EA22.htm", "7.png", "E96", "E59", "", "UseCase0","{345CEC39-39DD-445e-9813-F3901FDF1A49}");
+tocTab[tocTab.length] = new Array("0.1.2:4", "", "Detect push button pressed and relesed", "EARoot/EA1/EA2/EA23.htm", "7.png", "E71", "E59", "", "UseCase0","{3438D9D4-6E58-447b-9D55-35199A77E564}");
+tocTab[tocTab.length] = new Array("0.1.2:5", "", "Indicate application running as heartbeat", "EARoot/EA1/EA2/EA24.htm", "7.png", "E69", "E59", "", "UseCase0","{78621BA1-8C35-4e76-9605-41D082B836B6}");
+tocTab[tocTab.length] = new Array("0.1.2:6", "", "Select and operate mode 2", "EARoot/EA1/EA2/EA25.htm", "7.png", "E73", "E59", "", "UseCase0","{DC449CDF-56A3-4487-A5EB-58D32252DB8F}");
+tocTab[tocTab.length] = new Array("0.1.2:7", "", "Select and operate mode 3", "EARoot/EA1/EA2/EA26.htm", "7.png", "E74", "E59", "", "UseCase0","{8764CCC2-5013-4deb-9389-E13B3F35289D}");
+tocTab[tocTab.length] = new Array("0.1.2:8", "", "Select and operate mode:<br />Voltage Measurement<br />Current Measurement<br />Resistance Measurement", "EARoot/EA1/EA2/EA27.htm", "7.png", "E75", "E59", "", "UseCase0","{F4F61938-D31F-4b57-8C35-2340B1D82F03}");
+tocTab[tocTab.length] = new Array("0.1.2:9", "", "Show ADC value and measurement continuously according to the mode", "EARoot/EA1/EA2/EA28.htm", "7.png", "E72", "E59", "", "UseCase0","{85095583-80E2-4dd5-8432-D90A66D155B9}");
+tocTab[tocTab.length] = new Array("0.1.2:10", "", "Show startup information", "EARoot/EA1/EA2/EA29.htm", "7.png", "E77", "E59", "", "UseCase0","{8AA0C363-DFAD-48f2-B71C-7AA6ED0305C3}");

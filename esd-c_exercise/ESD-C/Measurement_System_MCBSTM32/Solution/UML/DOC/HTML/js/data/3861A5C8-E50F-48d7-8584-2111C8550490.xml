@@ -1,0 +1,9 @@
+tocTab[tocTab.length] = new Array("0.1.3:1", "", "Hardware_Device_Abstraction", "EARoot/EA1/EA3/EA54.htm", "175.png", "20", "0", "", "Logical diagram0","{E66037D0-B361-443c-AFF6-B71BAC795BBA}");
+tocTab[tocTab.length] = new Array("0.1.3:2", "", "Hardware_Device_Abstraction_Manager", "EARoot/EA1/EA3/EA56.htm", "175.png", "36", "0", "", "Logical diagram0","{DAA2B96B-655A-4ba0-BE37-5B5C6A025795}");
+tocTab[tocTab.length] = new Array("0.1.3:3", "", "Hardware_Device_Abstraction_Manager_extended", "EARoot/EA1/EA3/EA58.htm", "175.png", "52", "0", "", "Logical diagram0","{7A11D11E-EC7A-4c0a-832D-C024D67E1A11}");
+tocTab[tocTab.length] = new Array("0.1.3:4", "", "DeviceAbstractionManager", "EARoot/EA1/EA3/EA61.htm", "5.png", "E117", "0", "", "Class0","{DDD1A064-70FD-47e4-965F-E739137F36FD}");
+tocTab[tocTab.length] = new Array("0.1.3.1", "1", "«Software_Subsystem» AnalogMeasurement", "EARoot/EA1/EA3/EA1/EA71.htm", "4.png", "", "", "{E895304B-B81B-40ac-A795-1E20E3101467}", "Package");
+tocTab[tocTab.length] = new Array("0.1.3.2", "1", "«Software_Subsystem» ComSerial", "EARoot/EA1/EA3/EA2/EA79.htm", "4.png", "", "", "{519F627A-BA66-4b73-A797-96ED98666CE8}", "Package");
+tocTab[tocTab.length] = new Array("0.1.3.3", "1", "«Software_Subsystem» UserIndication", "EARoot/EA1/EA3/EA3/EA88.htm", "4.png", "", "", "{64102FAA-EBAE-4f55-AEC7-12AB6049EABC}", "Package");
+tocTab[tocTab.length] = new Array("0.1.3.4", "1", "«Software_Subsystem» UserInput", "EARoot/EA1/EA3/EA4/EA96.htm", "4.png", "", "", "{0944219C-0393-43e3-99CE-4C7857F0B108}", "Package");
+tocTab[tocTab.length] = new Array("0.1.3.5", "1", "«Software_Subsystem» UserOutput", "EARoot/EA1/EA3/EA5/EA104.htm", "4.png", "", "", "{405625B0-2983-4636-848D-E497F266BAC0}", "Package");

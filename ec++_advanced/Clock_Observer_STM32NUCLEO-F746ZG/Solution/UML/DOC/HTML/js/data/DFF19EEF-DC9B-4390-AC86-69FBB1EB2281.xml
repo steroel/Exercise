@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.2.1:1", "", "Exercise_1: Classes, Objects and Relations", "EARoot/EA2/EA1/EA77.htm", "175.png", "11", "0", "", "Logical diagram0","{56E5B3E3-3AD4-44f6-A0D1-82A9649CD8E0}");
+tocTab[tocTab.length] = new Array("0.2.1.1", "1", "Clock_Observer_Application", "EARoot/EA2/EA1/EA1/EA82.htm", "4.png", "", "", "{B2101310-DC35-40e0-9DDD-90A5C65E8221}", "Package");
+tocTab[tocTab.length] = new Array("0.2.1.2", "1", "Clock", "EARoot/EA2/EA1/EA2/EA84.htm", "4.png", "", "", "{7392EB1B-007F-4a61-9E34-79C94CF366D4}", "Package");

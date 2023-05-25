@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.1.4.1.1.3:1", "", "USART_STM32F103", "EARoot/EA1/EA4/EA1/EA1/EA3/EA154.htm", "175.png", "29", "0", "", "Logical diagram0","{A7C04077-FB8B-4bdb-8E31-00560C4F6C96}");
+tocTab[tocTab.length] = new Array("0.1.4.1.1.3:2", "", "«Driver» USART_Driver_STM32F103", "EARoot/EA1/EA4/EA1/EA1/EA3/EA157.htm", "5.png", "E10", "0", "", "Class0","{D0643F0E-0ED8-4b8e-99F8-465383CE3515}");
+tocTab[tocTab.length] = new Array("0.1.4.1.1.3:3", "", "«Driver_Register» USART_Register_STM32F103", "EARoot/EA1/EA4/EA1/EA1/EA3/EA158.htm", "5.png", "E75", "0", "", "Class0","{EC3EB09D-5E62-46f4-A0EB-393E51A8474A}");

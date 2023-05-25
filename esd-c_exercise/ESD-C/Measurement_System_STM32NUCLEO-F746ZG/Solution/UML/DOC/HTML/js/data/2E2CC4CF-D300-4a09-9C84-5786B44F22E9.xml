@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("0.1.4.1.1.1", "1", "«Driver» Button", "EARoot/EA1/EA4/EA1/EA1/EA1/EA117.htm", "4.png", "", "", "{90236199-0F2C-4460-A2B9-5689CF957AA9}", "Package");
+tocTab[tocTab.length] = new Array("0.1.4.1.1.2", "1", "«Driver» LED", "EARoot/EA1/EA4/EA1/EA1/EA2/EA123.htm", "4.png", "", "", "{EBAE6FCA-F7EB-41e1-B8C4-414D2A000484}", "Package");

@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.2.1:1", "", "Exersice_1: cLimitCounter Class View", "EARoot/EA2/EA1/EA158.htm", "175.png", "26", "0", "", "Logical diagram0","{BCF6EBFF-F423-4ba2-8461-825734D90E45}");
+tocTab[tocTab.length] = new Array("0.2.1:2", "", "Exersice_1: cLimitCounter Object View", "EARoot/EA2/EA1/EA160.htm", "177.png", "25", "0", "", "Object diagram0","{C36784FA-CD80-4f35-AE1E-76ADB4C26088}");
+tocTab[tocTab.length] = new Array("0.2.1:3", "", "locLimitCounter: cLimitCounter", "EARoot/EA2/EA1/EA163.htm", "25.png", "E121", "0", "", "Object0","{6C39F28A-CF88-4cca-B45D-9E2CF074319F}");

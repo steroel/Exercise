@@ -1,0 +1,7 @@
+tocTab[tocTab.length] = new Array("0.1.4:1", "", "Hardware_Device_Driver", "EARoot/EA1/EA4/EA90.htm", "175.png", "16", "0", "", "Logical diagram0","{F076BCF9-4033-4b75-B417-C9E2BC599E4D}");
+tocTab[tocTab.length] = new Array("0.1.4:2", "", "Hardware_Device_Driver_Manager", "EARoot/EA1/EA4/EA92.htm", "175.png", "20", "0", "", "Logical diagram0","{837B018E-B1F4-4a9c-8895-1BCAC8A89B0B}");
+tocTab[tocTab.length] = new Array("0.1.4:3", "", "Hardware_Device_Driver_Manager_extended", "EARoot/EA1/EA4/EA94.htm", "175.png", "33", "0", "", "Logical diagram0","{05774EFA-6F29-4dcb-AE8F-7ACAF6FC6EAA}");
+tocTab[tocTab.length] = new Array("0.1.4:4", "", "DriverManager", "EARoot/EA1/EA4/EA97.htm", "5.png", "E32", "0", "", "Class0","{788F8B7B-52FC-41e9-9EE6-683B19E22D4C}");
+tocTab[tocTab.length] = new Array("0.1.4.1", "1", "«Software_Subsystem» Board_Driver", "EARoot/EA1/EA4/EA1/EA103.htm", "4.png", "", "", "{5F069CA7-C505-4893-830F-EAF2A3402CC1}", "Package");
+tocTab[tocTab.length] = new Array("0.1.4.2", "1", "«Software_Subsystem» Microcontroller_Driver", "EARoot/EA1/EA4/EA2/EA127.htm", "4.png", "", "", "{ACD19A7C-BF43-4d7b-A02C-5898C0FC2722}", "Package");
+tocTab[tocTab.length] = new Array("0.1.4.3", "1", "«Software_Subsystem» Microcontroller_Configuration", "EARoot/EA1/EA4/EA3/EA142.htm", "4.png", "", "", "{4EF96726-F04F-4f3f-B7D4-1790E5651212}", "Package");

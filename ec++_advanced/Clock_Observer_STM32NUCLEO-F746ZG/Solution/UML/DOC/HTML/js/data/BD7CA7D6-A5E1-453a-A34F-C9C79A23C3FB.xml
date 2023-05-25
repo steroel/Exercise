@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("0.2.3:1", "", "Exercise_3: Exception Handling and Dynamic Memory Management", "EARoot/EA2/EA3/EA98.htm", "175.png", "13", "0", "", "Logical diagram0","{961DFDE4-59E4-4cb9-8F99-AAD4BD5784FD}");
+tocTab[tocTab.length] = new Array("0.2.3.1", "1", "Clock_Observer_Application", "EARoot/EA2/EA3/EA1/EA102.htm", "4.png", "", "", "{D32069DD-7415-4601-9547-AF5B268313E7}", "Package");

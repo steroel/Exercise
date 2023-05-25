@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.1.4.2.1.1", "1", "«Driver» Button_MCBSTM32", "EARoot/EA1/EA4/EA2/EA1/EA1/EA192.htm", "4.png", "", "", "{90236199-0F2C-4460-A2B9-5689CF957AA9}", "Package");
+tocTab[tocTab.length] = new Array("0.1.4.2.1.2", "1", "«Driver» LED_MCBSTM32", "EARoot/EA1/EA4/EA2/EA1/EA2/EA198.htm", "4.png", "", "", "{EBAE6FCA-F7EB-41e1-B8C4-414D2A000484}", "Package");
+tocTab[tocTab.length] = new Array("0.1.4.2.1.3", "1", "«Driver» LCD_Text_MCBSTM32", "EARoot/EA1/EA4/EA2/EA1/EA3/EA204.htm", "4.png", "", "", "{4E606ABA-79E6-41db-8B26-4DCED311CF68}", "Package");

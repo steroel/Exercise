@@ -1,0 +1,15 @@
+tocTab[tocTab.length] = new Array("0.1.2.1:1", "", "Measurement_Controller", "EARoot/EA1/EA2/EA1/EA26.htm", "175.png", "10", "0", "", "Logical diagram0","{0FC9BC06-692F-4cbc-8797-4ACC17BDB440}");
+tocTab[tocTab.length] = new Array("0.1.2.1:2", "", "Measurement_Controller_extended", "EARoot/EA1/EA2/EA1/EA28.htm", "175.png", "24", "0", "", "Logical diagram0","{98189DF3-23F9-48ca-B442-F40DC6406A31}");
+tocTab[tocTab.length] = new Array("0.1.2.1:4", "", "MeasurementController", "EARoot/EA1/EA2/EA1/EA33.htm", "5.png", "E30", "0", "", "Class0","{78466417-08FB-45fa-A8EC-2A0C9AEC2CFF}");
+tocTab[tocTab.length] = new Array("0.1.2.1:5", "", "«typedef» MeasurementController_Events", "EARoot/EA1/EA2/EA1/EA34.htm", "5.png", "E65", "0", "", "Class0","{DDAF8C28-AC8D-47f4-8B79-4C9A25972F15}");
+tocTab[tocTab.length] = new Array("0.1.2.1:6", "", "StateMachine_MeasurementController", "EARoot/EA1/EA2/EA1/EA35.htm", "195.png", "E79", "E30", "", "StateMachine0","{5CE6F003-A6D3-46cf-86E9-05FF1D41A465}");
+tocTab[tocTab.length] = new Array("0.1.2.1:3", "", "StateMachine_MeasurementController", "EARoot/EA1/EA2/EA1/EA30.htm", "183.png", "15", "E79", "", "Statechart diagram0","{720481AB-35A6-479f-B527-D95F594384DF}");
+tocTab[tocTab.length] = new Array("0.1.2.1:7", "", "evDown", "EARoot/EA1/EA2/EA1/EA36.htm", "198.png", "E80", "E79", "", "Trigger0","{5EF6EFA8-F297-45ac-9076-EA781CB9B8E3}");
+tocTab[tocTab.length] = new Array("0.1.2.1:8", "", "evMeasure", "EARoot/EA1/EA2/EA1/EA37.htm", "198.png", "E63", "E79", "", "Trigger0","{731A13DC-D3AF-4aac-AC02-23A02B1EC471}");
+tocTab[tocTab.length] = new Array("0.1.2.1:9", "", "evModeDown", "EARoot/EA1/EA2/EA1/EA38.htm", "198.png", "E62", "E79", "", "Trigger0","{9076D439-0E7A-4203-B537-B5589DD03F66}");
+tocTab[tocTab.length] = new Array("0.1.2.1:10", "", "evModeUp", "EARoot/EA1/EA2/EA1/EA39.htm", "198.png", "E61", "E79", "", "Trigger0","{3B991851-5A8C-43f6-8D91-CA97CDD846E5}");
+tocTab[tocTab.length] = new Array("0.1.2.1:11", "", "Initial", "EARoot/EA1/EA2/EA1/EA40.htm", "68.png", "E60", "E79", "", "StateNode0","{081AF561-524C-4273-8487-8759E5CE8908}");
+tocTab[tocTab.length] = new Array("0.1.2.1:12", "", "StateMeasureCurrent", "EARoot/EA1/EA2/EA1/EA41.htm", "20.png", "E59", "E79", "", "State0","{9EB30BAE-F99C-40d6-A3A3-23BA3FBF11E3}");
+tocTab[tocTab.length] = new Array("0.1.2.1:13", "", "StateMeasureResistance", "EARoot/EA1/EA2/EA1/EA42.htm", "20.png", "E58", "E79", "", "State0","{93D72AE2-CBB6-4803-B183-8EF6E61D0BBF}");
+tocTab[tocTab.length] = new Array("0.1.2.1:14", "", "StateMeasureVoltage", "EARoot/EA1/EA2/EA1/EA43.htm", "20.png", "E57", "E79", "", "State0","{A888AD97-C1D7-4276-AB0F-532CABC51C02}");
+tocTab[tocTab.length] = new Array("0.1.2.1:15", "", "StateWelcome", "EARoot/EA1/EA2/EA1/EA44.htm", "20.png", "E56", "E79", "", "State0","{0450142D-3C01-48a6-819B-30CB29748650}");

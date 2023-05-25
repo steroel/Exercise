@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("0.1.6:1", "", "Hardware_Configuration", "EARoot/EA1/EA6/EA137.htm", "175.png", "17", "0", "", "Logical diagram0","{D3EDBC8A-D462-449f-8345-715DBC684288}");
+tocTab[tocTab.length] = new Array("0.1.6.1", "1", "MDK-ARM", "EARoot/EA1/EA6/EA1/EA141.htm", "4.png", "", "", "{C182C6BD-FB8D-404c-9C4F-3A830E488BC4}", "Package");

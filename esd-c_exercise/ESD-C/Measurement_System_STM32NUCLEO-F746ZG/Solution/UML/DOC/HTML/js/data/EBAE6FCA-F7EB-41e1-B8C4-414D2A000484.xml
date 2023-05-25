@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.1.4.1.1.2:1", "", "LED", "EARoot/EA1/EA4/EA1/EA1/EA2/EA119.htm", "175.png", "32", "0", "", "Logical diagram0","{DC646104-2081-48da-A70D-CADE71034903}");
+tocTab[tocTab.length] = new Array("0.1.4.1.1.2:2", "", "LED_extended", "EARoot/EA1/EA4/EA1/EA1/EA2/EA121.htm", "175.png", "12", "0", "", "Logical diagram0","{FA33B3E4-28A3-431e-9A57-6B7E85695023}");
+tocTab[tocTab.length] = new Array("0.1.4.1.1.2:3", "", "«Device» STM32F7xx_NUCLEO_144_LED", "EARoot/EA1/EA4/EA1/EA1/EA2/EA124.htm", "5.png", "E44", "0", "", "Class0","{05A708DE-D142-4b60-BD4A-55C9CD2D7077}");

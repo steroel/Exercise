@@ -1,0 +1,62 @@
+#ifndef __RegisterMap_STM32F103_H
+#define __RegisterMap_STM32F103_H
+
+// register base addresses
+#define FSMC_BASEADR         0xA0000000
+#define USB_OTG_FS_BASEADR   0x50000000
+#define ETHERNET_BASEADR     0x40028000
+#define CRC_BASEADR          0x40023000
+#define FLASH_BASEADR        0x40022000
+#define RCC_BASEADR          0x40021000
+#define DMA2_BASEADR         0x40020400
+#define DMA1_BASEADR         0x40020000
+#define SDIC_BASEADR         0x40018000
+#define	TIM11_BASEADR        0x40015400
+#define TIM10_BASEADR        0x40015000
+#define TIM9_BASEADR         0x40014C00
+#define ADC3_BASEADR         0x40013C00
+#define USART1_BASEADR       0x40013800
+#define TIM8_BASEADR         0x40013400
+#define SPI1_BASEADR         0x40013000
+#define TIM1_BASEADR         0x40012C00
+#define ADC2_BASEADR         0x40012800
+#define ADC1_BASEADR         0x40012400
+#define GPIOG_BASEADR        0x40012000
+#define GPIOF_BASEADR        0x40011C00
+#define GPIOE_BASEADR        0x40011800
+#define GPIOD_BASEADR        0x40011400
+#define GPIOC_BASEADR        0x40011000
+#define GPIOB_BASEADR        0x40010C00
+#define GPIOA_BASEADR        0x40010800
+#define EXTI_BASEADR         0x40010400
+#define AFIO_BASEADR         0x40010000
+#define DAC_BASEADR          0x40007400
+#define PWR_BASEADR          0x40007000
+#define BKP_BASEADR          0x40006C00
+#define CAN1_BASEADR         0x40006400
+#define CAN2_BASEADR         0x40006800
+#define USB_CAN_SRAM_BASEADR 0x40006000
+#define USB_FS_BASEADR       0x40005C00
+#define I2C2_BASEADR         0x40005800
+#define I2C1_BASEADR         0x40005400
+#define UART5_BASEADR        0x40005000
+#define UART4_BASEADR        0x40004C00
+#define USART3_BASEADR       0x40004800
+#define USART2_BASEADR       0x40004400
+#define SPI3_I2S_BASEADR     0x40003C00
+#define SPI2_I2S_BASEADR     0x40003800
+#define IWDG_BASEADR         0x40003000
+#define WWDG_BASEADR         0x40002C00
+#define RTC_BASEADR          0x40002800
+#define TIM14_BASEADR        0x40002000
+#define TIM13_BASEADR        0x40001C00
+#define TIM12_BASEADR        0x40001800
+#define TIM7_BASEADR         0x40001400
+#define TIM6_BASEADR         0x40001000
+#define TIM5_BASEADR         0x40000C00
+#define TIM4_BASEADR         0x40000800
+#define TIM3_BASEADR         0x40000400
+#define TIM2_BASEADR         0x40000000
+#define NVIC_BASEADR         0xE000E100
+
+#endif	// __RegisterMap_STM32F103_H

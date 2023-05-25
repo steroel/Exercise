@@ -1,0 +1,16 @@
+tocTab[tocTab.length] = new Array("0.1.3:1", "", "Clock", "EARoot/EA1/EA3/EA30.htm", "175.png", "8", "0", "", "Logical diagram0","{72D7B56E-A746-43f6-9E1E-D40291FDDCA0}");
+tocTab[tocTab.length] = new Array("0.1.3:2", "", "Clock_Object_View", "EARoot/EA1/EA3/EA32.htm", "177.png", "19", "0", "", "Object diagram0","{6596C35E-9554-48bb-9644-E1BE6453BCA3}");
+tocTab[tocTab.length] = new Array("0.1.3:3", "", "cAlarmClock", "EARoot/EA1/EA3/EA35.htm", "5.png", "E2", "0", "", "Class0","{3B9BA686-9648-4a38-A584-311555341990}");
+tocTab[tocTab.length] = new Array("0.1.3:4", "", "cAlarmTime", "EARoot/EA1/EA3/EA36.htm", "5.png", "E3", "0", "", "Class0","{830AB61C-EDFF-4ec9-A94A-F5A0D799D8E1}");
+tocTab[tocTab.length] = new Array("0.1.3:5", "", "cClock", "EARoot/EA1/EA3/EA37.htm", "5.png", "E4", "0", "", "Class0","{C05AE1AD-CB70-47eb-B1E6-7DB6F7A47A35}");
+tocTab[tocTab.length] = new Array("0.1.3:6", "", "«interface» icbcAlarmClock", "EARoot/EA1/EA3/EA38.htm", "5.png", "E5", "0", "", "Class0","{291ED1C8-48B9-4261-8FD6-B3EDC274159A}");
+tocTab[tocTab.length] = new Array("0.1.3:7", "", "«interface» icClock", "EARoot/EA1/EA3/EA39.htm", "5.png", "E6", "0", "", "Class0","{7C97D646-DC07-4653-8A88-CF9F283E53BE}");
+tocTab[tocTab.length] = new Array("0.1.3:8", "", "locClock: cClock", "EARoot/EA1/EA3/EA40.htm", "25.png", "E108", "0", "", "Object0","{C2FCF28C-A219-4052-A901-D6C7BF4030AA}");
+tocTab[tocTab.length] = new Array("0.1.3:9", "", ": cAlarmClock", "EARoot/EA1/EA3/EA41.htm", "25.png", "E113", "0", "", "Object0","{D63A9182-22AF-4f3b-B036-94D5D4749BBF}");
+tocTab[tocTab.length] = new Array("0.1.3:10", "", "mHour: cLimitCounter", "EARoot/EA1/EA3/EA42.htm", "25.png", "E124", "E108", "", "Object0","{52668107-7D6F-44d5-860A-1197A082FFBD}");
+tocTab[tocTab.length] = new Array("0.1.3:11", "", "mMinute: cOverflowCounter", "EARoot/EA1/EA3/EA43.htm", "25.png", "E123", "E108", "", "Object0","{73519074-E896-4871-A844-6CA330CB3168}");
+tocTab[tocTab.length] = new Array("0.1.3:12", "", "mSecond: cOverflowCounter", "EARoot/EA1/EA3/EA44.htm", "25.png", "E122", "E108", "", "Object0","{1FCF300F-0130-4f42-950C-0E44D1E97115}");
+tocTab[tocTab.length] = new Array("0.1.3:13", "", "mAlarmTime: cAlarmTime", "EARoot/EA1/EA3/EA45.htm", "25.png", "E112", "E113", "", "Object0","{82557ED9-DCBB-4e88-A103-D0096BF04AF9}");
+tocTab[tocTab.length] = new Array("0.1.3:14", "", "mHour: cLimitCounter", "EARoot/EA1/EA3/EA46.htm", "25.png", "E109", "E113", "", "Object0","{C881B856-58D1-46b1-A791-2D45C52201CF}");
+tocTab[tocTab.length] = new Array("0.1.3:15", "", "mMinute: cOverflowCounter", "EARoot/EA1/EA3/EA47.htm", "25.png", "E110", "E113", "", "Object0","{DE20B1D2-A662-474d-8A70-E3C75AB8D6A1}");
+tocTab[tocTab.length] = new Array("0.1.3:16", "", "mSecond: cOverflowCounter", "EARoot/EA1/EA3/EA48.htm", "25.png", "E111", "E113", "", "Object0","{9D9896EA-4755-4ab9-941C-0ABE67D0563A}");

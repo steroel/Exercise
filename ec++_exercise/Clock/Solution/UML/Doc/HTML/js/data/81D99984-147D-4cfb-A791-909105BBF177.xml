@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.1.4:1", "", "Counter", "EARoot/EA1/EA4/EA49.htm", "175.png", "7", "0", "", "Logical diagram0","{CAE443A2-62FB-405f-9E1D-40B525648DB4}");
+tocTab[tocTab.length] = new Array("0.1.4:2", "", "cLimitCounter", "EARoot/EA1/EA4/EA52.htm", "5.png", "E10", "0", "", "Class0","{F0049FB6-3BFE-4e19-9C2F-7E857D91FF21}");
+tocTab[tocTab.length] = new Array("0.1.4:3", "", "cOverflowCounter", "EARoot/EA1/EA4/EA53.htm", "5.png", "E11", "0", "", "Class0","{2FB8BC7C-2754-4039-9AD2-EF533F6E332E}");

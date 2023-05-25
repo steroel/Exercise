@@ -1,0 +1,8 @@
+tocTab[tocTab.length] = new Array("0.2.4:1", "", "Exercise_4: Callback Interface Access and Realization Class View", "EARoot/EA2/EA4/EA182.htm", "175.png", "29", "0", "", "Logical diagram0","{371B3CD0-2BCC-4e08-ABB9-79B4634A5DBE}");
+tocTab[tocTab.length] = new Array("0.2.4:2", "", "Exercise_4: cClockApplicationBuilder Class_View", "EARoot/EA2/EA4/EA184.htm", "175.png", "33", "0", "", "Logical diagram0","{A42EFBEA-8194-4230-A97E-244F86408F4E}");
+tocTab[tocTab.length] = new Array("0.2.4:3", "", "Exercise_4: cClockApplicationBuilder Object View", "EARoot/EA2/EA4/EA186.htm", "177.png", "23", "0", "", "Object diagram0","{9B36345D-99A7-40a2-A25C-681F600107FD}");
+tocTab[tocTab.length] = new Array("0.2.4:4", "", "locClockApplicationBuilder: cClockApplicationBuilder", "EARoot/EA2/EA4/EA189.htm", "25.png", "E129", "0", "", "Object0","{90DB7440-358A-463c-827C-1104858058D8}");
+tocTab[tocTab.length] = new Array("0.2.4:5", "", "mAlarmClock: cAlarmClock", "EARoot/EA2/EA4/EA190.htm", "25.png", "E131", "E129", "", "Object0","{C46F33C0-CD6C-4626-979B-29DBF8671DFD}");
+tocTab[tocTab.length] = new Array("0.2.4:6", "", "mClock: cClock", "EARoot/EA2/EA4/EA191.htm", "25.png", "E132", "E129", "", "Object0","{EB20D41A-7B84-454d-A116-8114CBE89D8D}");
+tocTab[tocTab.length] = new Array("0.2.4:7", "", "mClockApplication: cClockApplication", "EARoot/EA2/EA4/EA192.htm", "25.png", "E135", "E129", "", "Object0","{DFF92DF3-1435-4c72-85DB-7EB94CEF41F9}");
+tocTab[tocTab.length] = new Array("0.2.4:8", "", "mAlarmTime: cAlarmTime", "EARoot/EA2/EA4/EA193.htm", "25.png", "E133", "E131", "", "Object0","{AF4057CE-51D3-4de7-B088-959DB2394799}");

@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.2.2:1", "", "Exercise_2: Namespaces and Multiple Inheritance", "EARoot/EA2/EA2/EA86.htm", "175.png", "12", "0", "", "Logical diagram0","{44496E5A-1C76-47e8-978F-E38291200BA6}");
+tocTab[tocTab.length] = new Array("0.2.2.1", "1", "Clock", "EARoot/EA2/EA2/EA1/EA91.htm", "4.png", "", "", "{08946971-CA1E-4711-937B-6B52AC25F15E}", "Package");
+tocTab[tocTab.length] = new Array("0.2.2.2", "1", "Clock_Observer_Application", "EARoot/EA2/EA2/EA2/EA96.htm", "4.png", "", "", "{3C679BAF-5AC0-41da-8DC9-067BC4E822D1}", "Package");

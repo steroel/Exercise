@@ -1,0 +1,8 @@
+tocTab[tocTab.length] = new Array("0.1:1", "", "Architecture_Overview", "EARoot/EA1/EA1.htm", "176.png", "10", "0", "", "Package diagram0","{8BF698F5-6BA7-4338-B546-FC6F1A151F07}");
+tocTab[tocTab.length] = new Array("0.1.1", "1", "Clock_Observer_Application", "EARoot/EA1/EA1/EA13.htm", "4.png", "", "", "{648C125F-9313-4c26-B7C3-759FBC30BA59}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2", "1", "Counter", "EARoot/EA1/EA2/EA17.htm", "4.png", "", "", "{7AA26232-20EF-4fd1-B51D-6E24FA715EA2}", "Package");
+tocTab[tocTab.length] = new Array("0.1.3", "1", "Clock", "EARoot/EA1/EA3/EA22.htm", "4.png", "", "", "{6A554D6F-416C-4fe7-B279-C284AD3EFC0C}", "Package");
+tocTab[tocTab.length] = new Array("0.1.4", "1", "Clock_Source", "EARoot/EA1/EA4/EA29.htm", "4.png", "", "", "{7EFFC4F9-2A4C-4616-9E69-ABB68EBF068B}", "Package");
+tocTab[tocTab.length] = new Array("0.1.5", "1", "Common", "EARoot/EA1/EA5/EA35.htm", "4.png", "", "", "{19DF3B7E-12AA-47db-A7F1-434B29534561}", "Package");
+tocTab[tocTab.length] = new Array("0.1.6", "1", "User_Exception", "EARoot/EA1/EA6/EA41.htm", "4.png", "", "", "{796CAEBD-2612-49af-9C8D-3C8C55F76EC5}", "Package");
+tocTab[tocTab.length] = new Array("0.1.7", "1", "Platform", "EARoot/EA1/EA7/EA44.htm", "4.png", "", "", "{0E45EC25-4FA3-4f4d-ADD3-CC6613309683}", "Package");

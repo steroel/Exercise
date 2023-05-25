@@ -1,0 +1,10 @@
+tocTab[tocTab.length] = new Array("0.2:1", "", "Task_Management", "EARoot/EA2/EA30.htm", "184.png", "1", "0", "", "Collaboration diagram0","{CD29EA2C-F810-4099-B8EA-0E2A2C8047A4}");
+tocTab[tocTab.length] = new Array("0.2:2", "", "Synchronization_and_Interrupt_Management", "EARoot/EA2/EA32.htm", "184.png", "5", "0", "", "Collaboration diagram0","{AB69FE08-AE77-4e7a-A4E5-1B7D1838CEF5}");
+tocTab[tocTab.length] = new Array("0.2:3", "", "Communication", "EARoot/EA2/EA34.htm", "184.png", "6", "0", "", "Collaboration diagram0","{14FC7414-BCE3-47c4-9BF2-60EAC2564D84}");
+tocTab[tocTab.length] = new Array("0.2:4", "", "Time_Management_1", "EARoot/EA2/EA36.htm", "184.png", "9", "0", "", "Collaboration diagram0","{AE10ADFA-1E92-4609-BE44-5ADF7DBB184D}");
+tocTab[tocTab.length] = new Array("0.2:5", "", "Time_Management_2", "EARoot/EA2/EA38.htm", "184.png", "11", "0", "", "Collaboration diagram0","{463EF5CB-795B-4ec2-8D02-4399E8B5BD4F}");
+tocTab[tocTab.length] = new Array("0.2:6", "", "Resource_Management", "EARoot/EA2/EA40.htm", "184.png", "10", "0", "", "Collaboration diagram0","{EB469BA6-3CFB-4f2f-AC12-A4ED252DA6AF}");
+tocTab[tocTab.length] = new Array("0.2:7", "", "Init_Time_and_Resource_Management", "EARoot/EA2/EA42.htm", "184.png", "7", "0", "", "Collaboration diagram0","{3BA0D77B-BF25-45ea-AECA-00D1A8C459B1}");
+tocTab[tocTab.length] = new Array("0.2.1", "1", "«Software_Layer» OSAL", "EARoot/EA2/EA1/EA51.htm", "4.png", "", "", "{91307F51-15B4-4d7f-9941-721E9E11130B}", "Package");
+tocTab[tocTab.length] = new Array("0.2.2", "1", "«Software_Layer» Hardware", "EARoot/EA2/EA2/EA75.htm", "4.png", "", "", "{A07904DE-5669-4eca-8EBB-6CEE16B02EB4}", "Package");
+tocTab[tocTab.length] = new Array("0.2.3", "1", "Libraries_DataTypes", "EARoot/EA2/EA3/EA96.htm", "4.png", "", "", "{C8775B00-3789-4921-A169-3CF0C3D231E7}", "Package");

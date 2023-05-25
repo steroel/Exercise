@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.1.4:1", "", "Clock_Source", "EARoot/EA1/EA4/EA27.htm", "175.png", "3", "0", "", "Logical diagram0","{E817B1E7-5819-4d53-8FC8-CEAA0C98A4B4}");
+tocTab[tocTab.length] = new Array("0.1.4:2", "", "tcClockArray", "EARoot/EA1/EA4/EA30.htm", "5.png", "E4", "0", "", "Class0","{800C221C-9477-4f38-AB7D-896066C05B73}");
+tocTab[tocTab.length] = new Array("0.1.4:3", "", "cClockContainer", "EARoot/EA1/EA4/EA31.htm", "5.png", "E2", "0", "", "Class0","{6BA09551-7112-468b-B159-FDDD8EBF80C4}");
+tocTab[tocTab.length] = new Array("0.1.4:4", "", "cTickTimer", "EARoot/EA1/EA4/EA32.htm", "5.png", "E3", "0", "", "Class0","{982BCC54-9F37-4fad-A39E-CCAA8AE320CC}");

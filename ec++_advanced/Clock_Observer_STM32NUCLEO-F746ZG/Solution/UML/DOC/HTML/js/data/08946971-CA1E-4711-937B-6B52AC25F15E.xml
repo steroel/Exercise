@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.2.2.1:1", "", "cAnalogClock", "EARoot/EA2/EA2/EA1/EA92.htm", "5.png", "E31", "0", "", "Class0","{800599CF-947F-44de-8CB5-D371B9684A36}");
+tocTab[tocTab.length] = new Array("0.2.2.1:2", "", "cAnalogDigitalClock", "EARoot/EA2/EA2/EA1/EA93.htm", "5.png", "E38", "0", "", "Class0","{B2BC2CFE-A9D2-4cc2-A890-C0F5CB514473}");
+tocTab[tocTab.length] = new Array("0.2.2.1:3", "", "cClock", "EARoot/EA2/EA2/EA1/EA94.htm", "5.png", "E48", "0", "", "Class0","{7B4A40B4-CD5B-44eb-AB05-3EFBC2A085F9}");
+tocTab[tocTab.length] = new Array("0.2.2.1:4", "", "cDigitalClock", "EARoot/EA2/EA2/EA1/EA95.htm", "5.png", "E49", "0", "", "Class0","{737F8BB3-21AA-4f20-8FD7-974294C5026D}");

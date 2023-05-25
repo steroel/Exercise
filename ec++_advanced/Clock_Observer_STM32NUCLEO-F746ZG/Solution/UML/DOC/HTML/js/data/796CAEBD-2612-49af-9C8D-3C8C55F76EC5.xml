@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.1.6:1", "", "User_Exception", "EARoot/EA1/EA6/EA39.htm", "175.png", "9", "0", "", "Logical diagram0","{8457A27C-6F0E-48a8-B3BD-C32DA2FC6E06}");
+tocTab[tocTab.length] = new Array("0.1.6:2", "", "excRangeException", "EARoot/EA1/EA6/EA42.htm", "5.png", "E57", "0", "", "Class0","{4F1DEAF2-B5CF-4080-B488-85E6D04A71C9}");
+tocTab[tocTab.length] = new Array("0.1.6:3", "", "extcRangeException", "EARoot/EA1/EA6/EA43.htm", "5.png", "E47", "0", "", "Class0","{6FACA2BD-CA63-49e1-8479-CFAA46EF0A29}");
